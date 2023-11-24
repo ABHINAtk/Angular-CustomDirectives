@@ -1,0 +1,126 @@
+.para{
+    font-size: 20px; 
+    font-family: Arial, Helvetica, sans-serif; 
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.image1{
+    margin-left: 50px; 
+    margin-right: 50px;
+    width: 1400px; 
+    height: 710px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.heading{
+    margin-top: 50px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif; 
+    
+}
+.subheading{
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif; 
+    
+}
+.subheading1{
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif; 
+    
+}
+li{
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.para1{
+    font-size: 20px; 
+    font-family: Arial, Helvetica, sans-serif; 
+    margin-left: 100px;
+    margin-right: 50px; 
+}
+.img2{
+    margin-left: 50px;
+    margin-left: 50px; 
+    margin-right: 50px;
+    width: 700px; 
+    height: 400px;
+}
+.content1{
+    margin-left: 50px;
+    margin-left: 50px; 
+    margin-right: 50px;
+    width: 50%; 
+    height: auto;
+}
+.img3{
+    margin-left: 50px;
+    margin-left: 50px; 
+    margin-right: 50px;
+    width: 700px; 
+    height: 500px;
+
+}
+.content2{
+ 
+    margin-right: 50px;
+    margin-top: 50px;
+    width: 50%; 
+    height: auto;
+}
+.img4{
+    margin-left: 50px;
+    margin-left: 50px; 
+    margin-right: 50px;
+    width: 680px; 
+    height: 500px;
+
+}
+.content3{
+    margin-right: 50px;
+    margin-top: 50px;
+    width: 50%; 
+    height: auto;  
+}
+.div1{
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+.div2{
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+.div3{
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-links a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.social-icons a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0 10px;
+}

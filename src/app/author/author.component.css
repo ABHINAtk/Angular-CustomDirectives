@@ -1,0 +1,9 @@
+.author{
+    display: flex;
+    
+    gap:100px;
+}
+img{
+    width:150px;
+    height:150px;
+}
